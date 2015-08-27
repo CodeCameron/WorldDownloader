@@ -6,6 +6,8 @@ MCP is used for decompilation and recompilation.  Download it from [here](http:/
 
 You can also try [@uyjulian's liteloader version](https://github.com/uyjulian/LiteModWDL/) (which is based off of this one).
 
+This fork is dedicated to making a bypass for the AntiWorldDownloader plugin. Releases of the bypass will be located here.
+
 ##Resources 
 
  * [Minecraft Forums Thread](http://www.minecraftforum.net/topic/1444862-)
